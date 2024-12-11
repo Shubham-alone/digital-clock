@@ -1,0 +1,15 @@
+.digital-clock{
+  margin-top: 50px;
+  text-align: center;
+}
+
+.time{
+  font-size: 40px;
+  color: cornflowerblue;
+}
+
+.date{
+  font-size: 30px;
+  margin-top: 20px;
+  color: brown;
+}
